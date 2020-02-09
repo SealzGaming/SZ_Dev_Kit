@@ -1,0 +1,10 @@
+*.umap filter=lfs diff=lfs merge=lfs -text
+desert_pebbles_basecolor.uasset filter=lfs diff=lfs merge=lfs -text
+SZ_Dev_Island.umap filter=lfs diff=lfs merge=lfs -text
+SZ_Dev_Island.umap filter=lfs diff=lfs merge=lfs -text
+Dev_Test1.umap filter=lfs diff=lfs merge=lfs -text
+SZ_Dev_Test1.umap filter=lfs diff=lfs merge=lfs -text
+/Content/Levels/SZ_Dev_Test1.umap filter=lfs diff=lfs merge=lfs -text
+/Content/Levels/SZ_Dev_Island.umap filter=lfs diff=lfs merge=lfs -text
+/Content/Levels/SZ_Dev_Island_Sub_Levels/SZ_Dev_Island_Foliage.umap filter=lfs diff=lfs merge=lfs -text
+/Content/Levels/SZ_LightingLayers/LL_Overcast.umap filter=lfs diff=lfs merge=lfs -text

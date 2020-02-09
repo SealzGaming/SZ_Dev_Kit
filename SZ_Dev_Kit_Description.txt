@@ -1,0 +1,69 @@
+SZ_Dev_Kit
+
+--------------
+
+DESCRIPTION
+
+
+
+
+
+
+Level: SZ_Dev_Test1
+
+Firing Range - Material Testing 400m
+Metal, Wood, Misc (Tires, Stone, Dirt, Glass)
+
+Foliage - Density Testing -TBA
+
+GamePlay - AAS - Kill House, Large Skirmish 
+
+Movement
+Slope Testing
+Height Testing
+
+
+
+----------------
+
+Level: SZ_Dev_Test1
+
+v0.01a
+SZ_Dev_Test1
+
+Firing Range - Material Testing
+Metal, Wood, Misc (Tires, Stone, Dirt, Glass)
+
+Foliage - Density
+
+GamePlay - AAS - Kill House
+
+Movement
+Slope Testing
+Height Testing
+
+
+----------------
+
+
+Level: SZ_Dev_Test1
+
+v0.02a
+SZ_Dev_Test1
+
+Firing Range - Material Testing - 400m
+Metal,
+Wood,
+Misc (Tires, Stone, Dirt, Glass)
+
+Foliage - Density Testing
+Foliage 1 - 100% density
+Foliage 2 - 50% density
+
+GamePlay:
+AAS Testing
+Kill House
+
+Movement:
+Slope Testing
+Height Testing
